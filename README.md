@@ -26,5 +26,5 @@ If you want to run this bot yourself:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/telegram-removebg-bot.git
+git clone https://github.com/IhsanAliOfficial/telegram_bot-remove-bg
 cd telegram-removebg-bot
